@@ -1,5 +1,5 @@
 {
-  "name": "your-project-name",
+  "name": "app_api",
   "version": "1.0.0",
   "description": "An Express.js application with Mongoose, JWT, and other integrations.",
   "main": "index.js",
